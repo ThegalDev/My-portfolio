@@ -1,7 +1,7 @@
 # Aminat Majekadegbe — Portfolio
 
-Responsive static portfolio with project case studies and an interactive workflow explorer.
+A responsive portfolio showcasing People Operations, HR systems, and AI projects.
 
-Deploy on Netlify with no build command and publish directory `.`.
+Netlify: no build command; publish directory `.`.
 
-Preview locally with any static HTTP server. Project data lives in projects.json.
+Project content: projects.json. Preview with a static HTTP server.
