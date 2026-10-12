@@ -1,7 +1,5 @@
-# Aminat Majekadegbe — Portfolio
+# Aminat Majekadegbe portfolio
 
-A responsive portfolio showcasing People Operations, HR systems, and AI projects.
+Leadership-first portfolio with three shareable case studies, illustrative process maps, full CV access, and a filterable project collection.
 
-Netlify: no build command; publish directory `.`.
-
-Project content: projects.json. Preview with a static HTTP server.
+Netlify publish directory: `.`. No build command.
